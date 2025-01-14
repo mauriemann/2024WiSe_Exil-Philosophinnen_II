@@ -175,3 +175,21 @@ Referate zu Simone Weil und Isa Gruner, s. Handouts im OLAT-Ordner.
 ## 17.12.
 
 Besprechung der Texte zu Margarete Susman.
+
+## 07.01.
+
+Referat zu Edith Stein
+
+Besprechung Gertrud Bing
+
+## 14.01.
+
+**Lotte Labowsky (1905--1991)**
+
+## Digitalisat ihrer Dissertation
+[Der Begriff des *prepon* in der Ethik des Panaitios](https://archive.org/details/McGillLibrary-rbsc_klibansky_B595Z7L21932-17702/mode/2up)
+
+## Ein bisschen Digital Humanities: Linked open data
+
+[DH-Seminar Sommersemester 2024](https://liascript.github.io/course/?https://raw.githubusercontent.com/ggb/Seminar-Philosophinnen-im-Exil/main/main.md#37)
+
